@@ -3,3 +3,6 @@ This is a practice repository for learning Git.
 
 ### Contrbuting 
 Alwats raise a pull request (URL)
+
+## Project Status
+Successfully pushed to GitHub!
