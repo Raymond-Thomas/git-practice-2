@@ -17,3 +17,7 @@ Successfully pushed to GitHub!
 Git & GitHub
 
 ## Updated from Github
+
+## Development Enviroment
+- Using Visual Studio Code for Git Intergration
+- VS Code provides a visual interface for Git operations
