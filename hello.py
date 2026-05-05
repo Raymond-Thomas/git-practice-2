@@ -1,7 +1,4 @@
-print("Hello from both GitHub and local computer!")
-print("This version combines both edits")
+print("Greetings from GitHub!")
+print("This version was editied on the web")
 
-print("Local version: edited locally")
-
-print("GitHub version: edited on GitHub")
 
