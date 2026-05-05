@@ -24,6 +24,3 @@ Git & GitHub
 
 ## Contributors
 - Lucas
-
-## Testing Branch Protection
-- This change should be blocked by branch protection!
