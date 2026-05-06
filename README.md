@@ -23,4 +23,6 @@ Git & GitHub
 - VS Code provides a visual interface for Git operations
 
 ## Contributors
-- Lucas##Testing branch protection
+- Lucas
+
+## Testing branch protection
